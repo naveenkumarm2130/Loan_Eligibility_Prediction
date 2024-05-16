@@ -1,4 +1,5 @@
-**Project Summary:** 
+**Project Summary:**
+
 Loan Eligibility Prediction - In this project, we are going to develop one such model that can predict whether a person will get his/her loan approved or not by using some of the background information of the applicant like the applicant’s gender, marital status, income, etc. Dataset Size: 981 rows and 13 columns which includes Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area & Loan_Status.
 
 **Objective:** 
