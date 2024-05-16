@@ -23,7 +23,7 @@ Model Comparison: Compared Naive Bayes and Decision Tree models to determine the
 
 Naive Bayes Model: Accuracy = 82%
 
-Decision Tree Model: Accuracy = 78%
+Decision Tree Model: Accuracy = 70%
 
 **Conclusion:**
 
